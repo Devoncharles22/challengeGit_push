@@ -1,0 +1,16 @@
+body {background-color: black;}
+main {font-family: 'Yantramanav', sans-serif;
+	  color: white;
+	  text-align: center;}
+img {max-width: 200px;
+     max-height: 200px;
+     border-radius: 50%;
+     padding-bottom: 20px;}
+p{font-size: 12;
+  font-weight: lighter;}
+h1 {font-family: 'Shadows Into Light Two', cursive;
+	font-size: 36px;}
+h3 {padding:none;
+    margin: 0px;}
+a {color: white; 
+   text-decoration: none;}
